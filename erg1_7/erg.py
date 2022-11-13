@@ -10,7 +10,6 @@ import matplotlib.animation as anim
 
 print("------Experiment starting-------")
 
-#My result: Pithanotita = 2/k
 k = 9 #up to how many tosses are specified here
 p = 0.005 #probability of heads
 p0 = p
